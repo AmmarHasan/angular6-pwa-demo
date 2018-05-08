@@ -9,7 +9,7 @@
       "urls": [
         "/angular6-pwa-demo/favicon.ico",
         "/angular6-pwa-demo/index.html",
-        "/angular6-pwa-demo/main.4794b41e69051b59a9ae.js",
+        "/angular6-pwa-demo/main.6d0645c1bb1a4cf68274.js",
         "/angular6-pwa-demo/polyfills.6c08419970f9e4781b69.js",
         "/angular6-pwa-demo/runtime.6afe30102d8fe7337431.js",
         "/angular6-pwa-demo/styles.34c57ab7888ec1573f9c.css"
@@ -37,9 +37,9 @@
   "hashTable": {
     "/angular6-pwa-demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/angular6-pwa-demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/angular6-pwa-demo/index.html": "5516a41800b51a2e019270cb3dc38c655a9e8e95",
+    "/angular6-pwa-demo/index.html": "b3ee1706618934f77dda20f90704f373a59d482d",
     "/angular6-pwa-demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/angular6-pwa-demo/main.4794b41e69051b59a9ae.js": "7baf1437012544b67c4b789c35c6e465cde0bc9a",
+    "/angular6-pwa-demo/main.6d0645c1bb1a4cf68274.js": "ad7339f4f92f4d477ec6eec95249b262dfaa19bf",
     "/angular6-pwa-demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
     "/angular6-pwa-demo/polyfills.6c08419970f9e4781b69.js": "4db7a267f3eb9c7eb14cc4861d68f5917b52af2c",
     "/angular6-pwa-demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
